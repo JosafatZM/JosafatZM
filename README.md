@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on [a fun project](https://github.com/JosafatZM/rehab-tech-biofeedback)
 - I’m currently learning about GitHub 🐙
-- ⚡ Fun fact **I love Python more than Python loves me back**
+- ⚡ Fun fact, **I love Python more than Python loves me back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/josafatzamora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josafatzamora" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
