@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josafat</h1>
-<h3 align="center">A passionate Mexican student</h3>
+<h3 align="center">A passionate Mexican Engineer</h3>
 
 - 🔭 I’m currently working on [a fun project](https://github.com/JosafatZM/rehab-tech-biofeedback)
 - I love my GitHub Repos 🐙 
