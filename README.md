@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mexican student</h3>
 
 - 🔭 I’m currently working on [a fun project](https://github.com/JosafatZM/rehab-tech-biofeedback)
-- I’m currently learning about GitHub 🐙
+- I love my GitHub Repos 🐙 
 - ⚡ Fun fact, **I love Python more than Python loves me back**
 
 <h3 align="left">Connect with me:</h3>
